@@ -1,0 +1,10 @@
+bpar
+DATA.BP
+*.txt
+UMD_DATA.BIN
+PSP_GAME
+output
+GimCon*
+GxoTool.dll
+*.hexproj
+lib
